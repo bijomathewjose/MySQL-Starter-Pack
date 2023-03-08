@@ -12,3 +12,6 @@ The following command will create a database called 'mydb' in the MySQL server.
 The following command will use the database 'mydb' in the MySQL server.
 
     USE mydb;
+    
+   
+[NEXT >](https://github.com/bijomathewjose/MySQL-Starter-Pack/blob/development/Step%202.md)
