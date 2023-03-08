@@ -47,3 +47,5 @@ The following query will filter the rows that have a name that is exactly the sa
 |---|---|
 |1 |Jane|
 |2 |John|
+
+[PREVIOUS](https://github.com/bijomathewjose/MySQL-Starter-Pack/blob/development/Step%202.md)
