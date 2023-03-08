@@ -46,7 +46,8 @@ The following command will insert data into the table 'mytable' in the database 
 |  4 | Jill    |
 |  5 | Jenny   |
 
-
+[< PREVIOUS](https://github.com/bijomathewjose/MySQL-Starter-Pack/blob/development/Step%201.md)
+[AFTER >](https://github.com/bijomathewjose/MySQL-Starter-Pack/blob/development/Step%203.md)
 
 
 
